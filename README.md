@@ -25,7 +25,7 @@
         #0C3C26：显示颜色
         freecodecamp-blog-zh：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         freecodecamp-blog-zh：ApacheCN 的 Github 仓库名称
 -->
@@ -44,7 +44,7 @@
 > 
 > Will you joinin our crusade? Who will be strong and stand with me? Somewhere beyond the barricade, is there a world you long to see? Do you hear the people sing? Say, do youhear the distant drums? It is the future that they bring when tomorrow comes!
 
-* [在线阅读](https://fcc.apachecn.org)
+* [在线阅读](https://fcc.flygon.net)
 ## 下载
 
 ### Docker
